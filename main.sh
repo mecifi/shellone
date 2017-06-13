@@ -5,3 +5,10 @@
 #
 # Version 0.1
 #
+
+# Define constants
+myPath=/home/dir1
+mytmp=/tmp
+myOS=CentOS
+myVer=6
+
